@@ -1,3 +1,3 @@
 # INTRODUCCIÓN
 *Esta es la introduccion al proyecto*
-[foto](img/fi.jpg)
+![foto](img/fi.jpg)
